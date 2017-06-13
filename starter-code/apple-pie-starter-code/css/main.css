@@ -1,0 +1,19 @@
+header {
+  height: 700px;
+  width: auto;
+  background-size: cover;
+  color: white;
+  background-image: url(images/apple-pie.jpg);
+}
+
+h1 {
+  position: relative;
+}
+
+body {
+  background-image: url(images/"cooking-info.png");
+}
+
+div {
+  background-image: url("recipe-info.png");
+}
